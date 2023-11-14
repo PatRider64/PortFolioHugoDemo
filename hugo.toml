@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://patrider64.github.io/PortFolioHugoDemo/'
 languageCode = 'fr-fr'
 title = 'Mon Portfolio'
 theme = 'ananke'
