@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mon Portfolio</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Mon Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 14 Nov 2023 14:52:06 +0100</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git et GitHub</title>
+      <link>https://example.org/posts/git-et-github/</link>
+      <pubDate>Tue, 14 Nov 2023 14:52:06 +0100</pubDate>
+      <guid>https://example.org/posts/git-et-github/</guid>
+      <description>Git est un système qui enregistre toutes les modifications de fichiers au fil du temps. Les commits représententent les modifications de fichiers apportées à un moment donné du projet tandis que les branches permettent aux développeurs de travailler sur des fonctionnalités en parallèle et les merges fusionnent les modifications d&amp;rsquo;une branche dans une autre.
+Liste de commandes Git :
+- git init - git clone [url] - git commit m &amp;quot;[message]&amp;quot; - git push - git pull GitHub est une plateforme qui permet de stocker des répertoires, de collaborer sur des modifications, et de gérer le développement de logiciels.</description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://example.org/posts/hugo/</link>
+      <pubDate>Tue, 14 Nov 2023 14:51:38 +0100</pubDate>
+      <guid>https://example.org/posts/hugo/</guid>
+      <description>Introduction Hugo est un générateur qui permet de créer des sites web statiques de manière rapide et efficace. Il utilise du markdown, un langage de balissage léger utilisé pour l&amp;rsquo;écriture de contenu formaté et conçu pour être facile à lire et écrire.
+Pour créer un site avec Hugo, il suffit de taper la commande hugo new site monsite et pour démarrer le serveur local : hugo server -D.
+On peut choisir un thème pour le projet sur HugoThemes.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Mon Portfolio</title>
+    <link>https://example.org/tags/hugo/</link>
+    <description>Recent content in Hugo on Mon Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 14 Nov 2023 14:51:38 +0100</lastBuildDate>
+    <atom:link href="https://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://example.org/posts/hugo/</link>
+      <pubDate>Tue, 14 Nov 2023 14:51:38 +0100</pubDate>
+      <guid>https://example.org/posts/hugo/</guid>
+      <description>Introduction Hugo est un générateur qui permet de créer des sites web statiques de manière rapide et efficace. Il utilise du markdown, un langage de balissage léger utilisé pour l&amp;rsquo;écriture de contenu formaté et conçu pour être facile à lire et écrire.
+Pour créer un site avec Hugo, il suffit de taper la commande hugo new site monsite et pour démarrer le serveur local : hugo server -D.
+On peut choisir un thème pour le projet sur HugoThemes.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-fr'
+title = 'Mon Portfolio'
+theme = 'ananke'
+description = 'Un blog personnel sur le développement web, la programmation et les nouvelles technologies.'
+showReadingTime = true
