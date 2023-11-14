@@ -25,5 +25,3 @@ Dans les paramètres du dépôt GitHub, dans la section "Pages", il suffit de s�
 
 Alternativement, on peut automatiser le déploiement en utilisant GitHub Actions.
 Dans la section "Pages", il faut sélectionner "GitHub Actions" comme source et ensuite on sélectionne "Hugo" comme Workflow ce qui va créer un fichier *hugo-deploy.yml* dans le dossier *.github/workflows* pour automatiser la construction et le déploiement du site Hugo.
-
-dgdg
