@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/git/</loc>
+    <loc>https://patrider64.github.io/PortFolioHugoDemo/tags/git/</loc>
     <lastmod>2023-11-14T14:52:06+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/git-et-github/</loc>
+    <loc>https://patrider64.github.io/PortFolioHugoDemo/tags/github/</loc>
     <lastmod>2023-11-14T14:52:06+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/gitlab/</loc>
+    <loc>https://patrider64.github.io/PortFolioHugoDemo/tags/hugo/</loc>
     <lastmod>2023-11-14T14:52:06+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://patrider64.github.io/PortFolioHugoDemo/</loc>
     <lastmod>2023-11-14T14:52:06+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://patrider64.github.io/PortFolioHugoDemo/posts/</loc>
     <lastmod>2023-11-14T14:52:06+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://patrider64.github.io/PortFolioHugoDemo/posts/r%C3%A9sum%C3%A9-cours/</loc>
     <lastmod>2023-11-14T14:52:06+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hugo/</loc>
+    <loc>https://patrider64.github.io/PortFolioHugoDemo/tags/</loc>
+    <lastmod>2023-11-14T14:52:06+01:00</lastmod>
+  </url><url>
+    <loc>https://patrider64.github.io/PortFolioHugoDemo/posts/pr%C3%A9sentation/</loc>
     <lastmod>2023-11-14T14:51:38+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/hugo/</loc>
-    <lastmod>2023-11-14T14:51:38+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://patrider64.github.io/PortFolioHugoDemo/categories/</loc>
   </url>
 </urlset>

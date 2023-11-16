@@ -2,5 +2,5 @@ baseURL = 'https://patrider64.github.io/PortFolioHugoDemo/'
 languageCode = 'fr-fr'
 title = 'Mon Portfolio'
 theme = 'ananke'
-description = 'Un blog personnel sur le développement web, la programmation et les nouvelles technologies.'
+description = 'Un portfolio et mon premier projet Hugo.'
 showReadingTime = true

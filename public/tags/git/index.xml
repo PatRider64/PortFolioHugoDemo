@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on Mon Portfolio</title>
-    <link>https://example.org/tags/git/</link>
+    <link>https://patrider64.github.io/PortFolioHugoDemo/tags/git/</link>
     <description>Recent content in Git on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 14 Nov 2023 14:52:06 +0100</lastBuildDate>
-    <atom:link href="https://example.org/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://patrider64.github.io/PortFolioHugoDemo/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Git et GitHub</title>
-      <link>https://example.org/posts/git-et-github/</link>
+      <title>Résumé du Cours</title>
+      <link>https://patrider64.github.io/PortFolioHugoDemo/posts/r%C3%A9sum%C3%A9-cours/</link>
       <pubDate>Tue, 14 Nov 2023 14:52:06 +0100</pubDate>
-      <guid>https://example.org/posts/git-et-github/</guid>
-      <description>Git est un système qui enregistre toutes les modifications de fichiers au fil du temps. Les commits représententent les modifications de fichiers apportées à un moment donné du projet tandis que les branches permettent aux développeurs de travailler sur des fonctionnalités en parallèle et les merges fusionnent les modifications d&amp;rsquo;une branche dans une autre.
+      <guid>https://patrider64.github.io/PortFolioHugoDemo/posts/r%C3%A9sum%C3%A9-cours/</guid>
+      <description>Git et GitHub Introduction Git est un système qui enregistre toutes les modifications de fichiers au fil du temps. Les commits représententent les modifications de fichiers apportées à un moment donné du projet tandis que les branches permettent aux développeurs de travailler sur des fonctionnalités en parallèle et les merges fusionnent les modifications d&amp;rsquo;une branche dans une autre.
 Liste de commandes Git :
 - git init - git clone [url] - git commit m &amp;quot;[message]&amp;quot; - git push - git pull GitHub est une plateforme qui permet de stocker des répertoires, de collaborer sur des modifications, et de gérer le développement de logiciels.</description>
     </item>
