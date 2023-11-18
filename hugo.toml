@@ -4,6 +4,3 @@ title = 'Mon Portfolio'
 theme = 'ananke'
 description = 'Un portfolio et mon premier projet Hugo.'
 showReadingTime = true
-
-[params]
-    custom_css = ["css/style.css"]
