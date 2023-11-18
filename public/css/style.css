@@ -1,6 +1,36 @@
 footer {
-    background-color: #B74444;
-    color: #333;
-    text-align: center;
-    padding: 20px 0;
-  }
+  background-color: #B74444;
+  color: #333;
+  text-align: center;
+  padding: 20px 0;
+}
+main {
+  background-image: linear-gradient(red, rgb(5 184 5));
+}
+.head {
+  height: 300px;
+  width: 100%;
+  background-image: url(https://i.pinimg.com/originals/5a/52/5a/5a525a793841da28b22e5790c923357d.jpg);
+  background-size: cover;
+  background-position: 30% 40%;
+  margin-top: -22px;
+  text-align: center;
+  padding: 70px 0;
+}
+.head-title {
+  font-size: 100px;
+  color: #595555;
+  font-style: italic;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav {
+  background-color: #606060;
+  padding: 20px;
+}
+.nav-link {
+  margin:5px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}

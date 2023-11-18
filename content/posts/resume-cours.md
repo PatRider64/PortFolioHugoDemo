@@ -39,15 +39,19 @@ Pour créer un site avec Hugo, il suffit de taper la commande *hugo new site mon
 
 On peut choisir un thème pour le projet sur [HugoThemes](https://themes.gohugo.io/). Après avoir choisi le thème, sur la terminal de commande, il faut saisir *git submodule add [url] themes/[nom du thème]* et dans le fichier hugo.toml, il faut rajouter *theme = '[nom du thème]'*.
 
-## 2.2 Hébergement à GitHub Pages
+## 2.2 Hébergement sur GitHub Pages
 
 GitHub Pages nous permet d'héberger un projet Hugo.
-Pour cela, il faut naviguer dans le dossier public, puis initialiser un dépôt Git (*git init*), ajouter (*git add .*)
-et committer (*git commit -m "Initial commit"*) les fichiers.
-Après, il faut créer une branche *gh-pages* avec *git branch -M gh-pages*.
-Enfin, il faut ajouter le dépôt GitHub comme remote (*git remote add origin [URL du Dépôt GitHub]*) et
-pousser le contenu avec *git push -u origin gh-pages*.
-Dans les paramètres du dépôt GitHub, dans la section "Pages", il suffit de sélectionner la branche *gh-pages* comme source, et sauvegarder.
+Pour cela, il faut se rendre dans le dossier du projet et effectuer les commandes suivantes : 
 
-Alternativement, on peut automatiser le déploiement en utilisant GitHub Actions.
-Dans la section "Pages", il faut sélectionner "GitHub Actions" comme source et ensuite on sélectionne "Hugo" comme Workflow ce qui va créer un fichier *hugo-deploy.yml* dans le dossier *.github/workflows* pour automatiser la construction et le déploiement du site Hugo.
+    - git init
+    - git add .
+    - git commit -m "Initial commit"
+    - git branch -M gh-pages
+    - git remote add origin [URL du Dépôt GitHub]
+    - git push -u origin gh-pages
+
+Ensuite, dans les paramètres du dépôt GitHub, dans la section "Pages", il suffit de sélectionner la branche *gh-pages* comme source, et sauvegarder. Si tout fonctionne normalement, le site devrait maintenant être en ligne à l’adresse *https://[nomutilisateur].github.io/[nom-repo]*.
+
+
+Il existe cependant une autre méthode. Dans la section "Pages", on peut sélectionner "GitHub Actions" comme source et ensuite choisir "Hugo" comme Workflow ce qui va créer un fichier *hugo-deploy.yml* dans le dossier *.github/workflows* pour automatiser la construction et le déploiement du site Hugo.

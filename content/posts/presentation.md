@@ -12,8 +12,6 @@ Je m'appelle Patrik Pucelj, j'ai 22 ans et j'habite à *Noisy-le-Sec*. Je suis a
 
 # HETIC
 
-![Logo Hetic](/img/logo-hetic.jpg)
-
 **HETIC** (**Hautes études des technologies de l'information et de la communication**) est un établissement privé d'enseignement supérieur fondé en 2002 et spécialisé dans le numérique, l'internet et l'infographie tridimensionnelle. Son campus est situé à Montreuil en France. Un campus existe également en Inde. L'enseignement à **HETIC** s'oriente dans le numérique avec un programme Grande Ecole, un Bachelor Dèveloppeur Web, un Mastère CTO & Tech Lead et un Mastère Data & IA par exemple.
 
 Lien du site officiel : https://www.hetic.net/

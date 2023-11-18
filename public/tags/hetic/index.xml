@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hetic on Mon Portfolio</title>
+    <link>https://patrider64.github.io/PortFolioHugoDemo/tags/hetic/</link>
+    <description>Recent content in Hetic on Mon Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 14 Nov 2023 14:51:38 +0100</lastBuildDate>
+    <atom:link href="https://patrider64.github.io/PortFolioHugoDemo/tags/hetic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Présentation</title>
+      <link>https://patrider64.github.io/PortFolioHugoDemo/posts/presentation/</link>
+      <pubDate>Tue, 14 Nov 2023 14:51:38 +0100</pubDate>
+      <guid>https://patrider64.github.io/PortFolioHugoDemo/posts/presentation/</guid>
+      <description>Introduction Je m&amp;rsquo;appelle Patrik Pucelj, j&amp;rsquo;ai 22 ans et j&amp;rsquo;habite à Noisy-le-Sec. Je suis actuellement en alternance chez SYS&amp;amp;COM. Concernant mon parcours scolaire, après avoir obtenu mon Bac S j&amp;rsquo;ai effectué un DUT Informatique à l&amp;rsquo;IUT de Montreuil puis j&amp;rsquo;ai continué avec un Bachelor Développeur Web à HETIC et enfin j&amp;rsquo;ai décidé de rester à HETIC pour faire un Mastère CTO &amp;amp; Tech Lead.
+HETIC HETIC (Hautes études des technologies de l&amp;rsquo;information et de la communication) est un établissement privé d&amp;rsquo;enseignement supérieur fondé en 2002 et spécialisé dans le numérique, l&amp;rsquo;internet et l&amp;rsquo;infographie tridimensionnelle.</description>
+    </item>
+  </channel>
+</rss>
